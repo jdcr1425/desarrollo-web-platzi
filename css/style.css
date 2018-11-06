@@ -1,5 +1,6 @@
 body{
 font-family: 'Source Sans Pro', sans-serif;
+margin: 0;
 }
 /* source sans pro*/
 h1,
@@ -44,6 +45,13 @@ h1 strong {
    border:1px solid gray;
    border-radius: 10px;
    margin-bottom: 15px;
+   margin: 10px;
+   padding: 20px;
+   background-color: white;
+  
+}
+.portfolio{
+    background-color: #fafafa;
 }
 
 .project-imageContainer{
